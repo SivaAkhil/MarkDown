@@ -120,6 +120,5 @@ greet("world");
 
 <!-- Task List / check boxes -->
 
-[ ] This is a Unchecked box
-
-[x] This is a Checked box
+- [ ] This is a Unchecked box
+- [x] This is a Checked box
